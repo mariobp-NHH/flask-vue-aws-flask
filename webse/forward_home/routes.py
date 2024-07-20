@@ -25,7 +25,7 @@ def greetings():
 
 @forward_home.route('/shark', methods=['GET'])
 def shark():
-    return("Shark🦈!")
+    return("This is Shark button🦈!")
 
 
 GAMES = [
